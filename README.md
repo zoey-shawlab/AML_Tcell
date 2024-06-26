@@ -87,7 +87,8 @@ Single cell RNA-seq with AML and T cell data
 <img width="400" alt="Screenshot 2024-06-26 at 1 58 47 PM" src="https://github.com/zoey-shawlab/AML_Tcell/assets/173721950/414a5993-ed70-48e1-ba3e-3e9ad9269122">
         
         Feature plot: visualize the expression levels of specified features (genes or other variables) across cells in a dataset
-<img width="714" alt="Screenshot 2024-06-26 at 2 10 24 PM" src="https://github.com/zoey-shawlab/AML_Tcell/assets/173721950/5cdb024a-6669-4f13-8d11-af36e399ec02">
+<img width="500" alt="Screenshot 2024-06-26 at 2 10 24 PM" src="https://github.com/zoey-shawlab/AML_Tcell/assets/173721950/5cdb024a-6669-4f13-8d11-af36e399ec02">
+<img width="500" alt="Screenshot 2024-06-26 at 2 22 26 PM" src="https://github.com/zoey-shawlab/Single-Cell-Seurat/assets/173721950/e43b4232-9375-4aaf-be2d-aa62650e23f7">
 
         Heatmap: identify and visualize top marker genes (based on differential expression) for each cluster
 <img width="900" alt="Screenshot 2024-06-26 at 2 13 33 PM" src="https://github.com/zoey-shawlab/AML_Tcell/assets/173721950/495921de-2f1f-47b5-97dd-2466981af3fd">
